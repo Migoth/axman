@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod2",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "axman",
+  "name": "Axman",
+  "description": "Axman is a modification for the game Minecraft and helps to completely break down a tree.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Snake","Migoth","Mr_Drache"],
+  "credits": "Migoth for Setup, Snake for idea.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
